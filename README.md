@@ -43,7 +43,3 @@ I'm **Ceyhun Kerim Kılıç**, a passionate Full Stack Developer with a strong f
 - [Email](mailto:your-email@example.com)
 
 ---
-
-Feel free to check out my repositories and reach out if you'd like to collaborate or just have a chat!
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CeyhunKerimK)

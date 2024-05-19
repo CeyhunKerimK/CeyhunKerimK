@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **[Your Name]**, a passionate Full Stack Developer with a strong focus on web development. I have around 1.5 years of experience in the software industry, specializing in Java Spring-Boot and Node.js. 
+I'm **Ceyhun Kerim Kılıç**, a passionate Full Stack Developer with a strong focus on web development. I have around 1.5 years of experience in the software industry, specializing in Java Spring-Boot and Node.js. 
 
 ---
 

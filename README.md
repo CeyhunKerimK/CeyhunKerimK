@@ -39,7 +39,7 @@ I'm **Ceyhun Kerim Kılıç**, a passionate Full Stack Developer with a strong f
 ### 🌐 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Personal Website](https://www.ceyhunkerimkilic.net)
-- [Email](mailto:your-email@example.com)
+- [Personal Website]((https://ceyhunkerimkilic.netlify.app/))
+- [Email](mailto:kilicceyhun131@gmail.com)
 
 ---
